@@ -2,7 +2,7 @@
 
 <!-- ## Introdcurion -->
 
-<div align=center><img src="./figures/example1.PNG" width = "100%" height = "100%" /></div>
+<div align=center><img src="./figures/example1.png" width = "100%" height = "100%" /></div>
 
 
 ### Abstract
